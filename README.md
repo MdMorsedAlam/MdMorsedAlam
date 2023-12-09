@@ -7,7 +7,7 @@ Meet Md Morsed Alam, a passionate front-end developer specializing in React and 
 
 # My Skills
 
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb)](https://skillicons.dev)
 
 - 🌱 I’m currently learning MUI,MONGOSS,NODE,EXPRESS,MONGODB 
 - 💬 Ask me about HTML,CSS,TAILWIND,JS,REACT 
