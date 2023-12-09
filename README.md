@@ -8,4 +8,4 @@
 
 # My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,tailwind,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb)](https://skillicons.dev)
