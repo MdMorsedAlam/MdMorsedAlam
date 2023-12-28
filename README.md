@@ -1,8 +1,9 @@
-![Front-End Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/409642932_1304658767595754_2393354809593229697_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=4MwboocjfooAX8VHvZ6&_nc_ht=scontent.fdac135-1.fna&oh=00_AfC0GpHPbEn1unscvtOEtD1p7HIp_Y_htp6WozAXeP30hA&oe=65791B89)
+![Front-End Developer](https://github.com/MdMorsedAlam/MdMorsedAlam/blob/main/Front-End%20Developer.png)
 
-### Hi there 👋, Md Morsed Alam
-#### Front-End Developer
+<h1 align="center">Hi there 👋, Md Morsed Alam</h1>
+<h2 align="center">Front-End Web Developer</h2>
 
+# About
 Meet Md Morsed Alam, a passionate front-end developer specializing in React and Tailwind CSS. With a keen eye for design and a commitment to delivering seamless user experiences, Morsed brings creativity and technical expertise to every project. Proficient in React's component-based architecture and skilled in harnessing Tailwind CSS for efficient styling, he crafts elegant and responsive web interfaces. Morsed's code reflects a dedication to clean, maintainable solutions, and he takes pride in transforming design concepts into pixel-perfect applications. With a continuous pursuit of industry trends, Md Morsed Alam is ready to contribute to cutting-edge projects that prioritize both functionality and aesthetic appeal.
 
 # My Skills
