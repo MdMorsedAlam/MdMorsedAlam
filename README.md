@@ -1,7 +1,7 @@
 ![Front-End Developer](https://github.com/MdMorsedAlam/MdMorsedAlam/blob/main/Fron-End%20Developer.png?raw=true)
 
 <h1 align="center">Hi there 👋, Md Morsed Alam</h1>
-<h2 align="center">Front-End Web Developer</h2>
+<h2 align="center">MERN Stack Developer</h2>
 
 # About
 Meet Md Morsed Alam, a passionate front-end developer specializing in React and Tailwind CSS. With a keen eye for design and a commitment to delivering seamless user experiences, Morsed brings creativity and technical expertise to every project. Proficient in React's component-based architecture and skilled in harnessing Tailwind CSS for efficient styling, he crafts elegant and responsive web interfaces. Morsed's code reflects a dedication to clean, maintainable solutions, and he takes pride in transforming design concepts into pixel-perfect applications. With a continuous pursuit of industry trends, Md Morsed Alam is ready to contribute to cutting-edge projects that prioritize both functionality and aesthetic appeal.
